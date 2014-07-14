@@ -1,0 +1,11 @@
+*.suo
+*.user
+bin
+obj
+*.orig
+Debug
+Release
+AppPackages
+packages
+Properties
+.nuget
